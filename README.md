@@ -7,11 +7,4 @@
    
    Display the Password: Print the generated password on the screen.
 
-# Task 3 (Password generator)
-Creating a password generator using Python and the Tkinter library for a simple graphical user interface (GUI) is a great project
-1. We import the Tkinter library and other necessary modules.
-2. We define a function generate_password that generates a random password based on the desired length and populates it in the entry field.
-3. We create the main Tkinter window (root) and set its title.
-4. We create labels, entry fields, and a button for inputting the password length and generating the password.
-5. When the "Generate Password" button is clicked, it calls the generate_password function.
-6. The generated password is displayed in the entry field for passwords.
+
